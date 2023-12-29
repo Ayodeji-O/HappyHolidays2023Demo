@@ -1,0 +1,436 @@
+{
+	"resourceCatalog":
+	[
+		{
+			"key": "keyModelGingerBreadMan",
+			"uri": "models/GingerBread_Man.obj"
+		},
+		{
+			"key": "keyModelEnemyGrinch",
+			"uri": "models/Grinch.obj"
+		},
+		{
+			"key": "keyModelEnemyCoronaVirusMonster",
+			"uri": "models/Coronavirus_Monster.obj"
+		},
+		{
+			"key": "keyModelEnemyBallOrnamentMonster",
+			"uri": "models/Ball_Ornament_Monster.obj"		
+		},
+		{
+			"key": "keyModelEnemyEvilChristmasTreeMonster",
+			"uri": "models/Evil_Christmas_Tree_Monster.obj"
+		},
+		{
+			"key": "keyModelEnemyGumDropMonster",
+			"uri": "models/GumDrop_Monster.obj"
+		},
+		{
+			"key": "keyModelPowerUpSpeed",
+			"uri": "models/GingerMan_PowerUp_Speed.obj"
+		},
+		{
+			"key": "keyModelPowerUpJump",
+			"uri": "models/GingerMan_PowerUp_Jump.obj"
+		},
+		{
+			"key": "keyModelPowerUpInvulnerability",
+			"uri": "models/GingerMan_PowerUp_Invulnerability.obj"
+		},
+		{
+			"key": "keyModelHousePartDoor",
+			"uri": "models/GingerBread_House_Part_Door.obj"
+		},
+		{
+			"key": "keyModelHousePartRoofHalf",
+			"uri": "models/GingerBread_House_Part_Roof_Half.obj"
+		},		
+		{
+			"key": "keyModelHousePartShortSide",
+			"uri": "models/GingerBread_House_Part_Short_Side.obj"
+		},
+		{
+			"key": "keyModelHousePartShortSideWithDoor",
+			"uri": "models/GingerBread_House_Part_Short_Side_with_Door.obj"
+		},
+		{
+			"key": "keyModelHousePartLongSideWithWindows",
+			"uri": "models/GingerBread_House_Part_Long_Side_with_Windows.obj"
+		},
+		{
+			"key": "keyTextureCandyCanePattern1",
+			"uri": "textures/CandyCanePattern1Texture.png",
+			"resourceType": "textureResource",			
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureCandyCanePattern2",
+			"uri": "textures/CandyCanePattern2Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureChocolateWall1",
+			"uri": "textures/ChocolateWall1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureColoredHardCandySpheres1",
+			"uri": "textures/ColoredHardCandySpheres1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureHolidayCookies1",
+			"uri": "textures/HolidayCookies1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSprinkles1",
+			"uri": "textures/Sprinkles1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureIcePattern1",
+			"uri": "textures/IcePattern1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureCookie1",
+			"uri": "textures/Cookie1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureCookie2",
+			"uri": "textures/Cookie2Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureCookie3",
+			"uri": "textures/Cookie3Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureCookie4",
+			"uri": "textures/Cookie4Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureCookie5",
+			"uri": "textures/Cookie5Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureCookie6",
+			"uri": "textures/Cookie6Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureWaffle1",
+			"uri": "textures/Waffle1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureWaffle2",
+			"uri": "textures/Waffle2Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},		
+		{
+			"key": "keyTextureFrosting1",
+			"uri": "textures/Frosting1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureFrosting2",
+			"uri": "textures/Frosting2Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureFrosting3",
+			"uri": "textures/Frosting3Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureFrosting4",
+			"uri": "textures/Frosting4Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSmoothRockCandyWall1",
+			"uri": "textures/SmoothRockCandyWall1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSmoothRockCandyWall2",
+			"uri": "textures/SmoothRockCandyWall2Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSmoothRockCandyWall3",
+			"uri": "textures/SmoothRockCandyWall3Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSyntheticFudge1",
+			"uri": "textures/SyntheticFudge1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSugarSprinkles1",
+			"uri": "textures/SugarSprinkles1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSugarSprinkles2",
+			"uri": "textures/SugarSprinkles2Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureIceCream1",
+			"uri": "textures/IceCream1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureIceCream2",
+			"uri": "textures/IceCream2Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureIceCreamLarge1",
+			"uri": "textures/IceCreamLarge1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureStrawberry1",
+			"uri": "textures/Strawberry1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureBread1",
+			"uri": "textures/Bread1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSlicedLemon1",
+			"uri": "textures/SlicedLemon1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureMixedNuts1",
+			"uri": "textures/MixedNuts1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureMarshmallows1",
+			"uri": "textures/MarshmallowsTexture1.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},		
+		{
+			"key": "keyTextureFruitJelly1",
+			"uri": "textures/FruitJelly1Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureFruitJelly2",
+			"uri": "textures/FruitJelly2Texture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureDecorativeGlass1",
+			"uri": "textures/DecorativeGlass1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureHotCharcoalBriquettes1",
+			"uri": "textures/HotCharcoalBriquettes1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},		
+		{
+			"key": "keyTextureHotCoal1",
+			"uri": "textures/HotCoal1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureLava1",
+			"uri": "textures/Lava1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureSnow1",
+			"uri": "textures/Snow1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyTextureHourGlass1",
+			"uri": "textures/HourglassTexture.png",
+			"resourceType": "textureResource",
+			"binaryFlag": true		
+		},
+		{
+			"key": "keyTextureGoldShinyBrushed1",
+			"uri": "textures/GoldShinyBrushed1Texture.jpg",
+			"resourceType": "textureResource",
+			"binaryFlag": true		
+		},		
+		{
+			"key": "keyLevel1",
+			"uri": "levels/GingerManLevel01.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel2",
+			"uri": "levels/GingerManLevel02.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel3",
+			"uri": "levels/GingerManLevel03.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel4",
+			"uri": "levels/GingerManLevel04.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel5",
+			"uri": "levels/GingerManLevel05.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel6",
+			"uri": "levels/GingerManLevel06.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel7",
+			"uri": "levels/GingerManLevel07.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel8",
+			"uri": "levels/GingerManLevel08.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel9",
+			"uri": "levels/GingerManLevel09.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevel10",
+			"uri": "levels/GingerManLevel10.ssls",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevelBackdrop1",
+			"uri": "backdropLevels/GingerManBackdropLevel01.slss",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevelBackdrop2",
+			"uri": "backdropLevels/GingerManBackdropLevel02.slss",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyLevelBackdrop3",
+			"uri": "backdropLevels/GingerManBackdropLevel03.slss",
+			"binaryFlag": true
+		},		
+		{
+			"key": "keyAudioBackgroundMusic",
+			"uri": "audio/Bells and Beats.mp3",
+			"resourceType": "backgroundAudioResource",
+			"binaryFlag": true
+		},
+		{
+			"key": "keyVertexShaderStandardPosition",
+			"uri": "shaders/VertexShaderStandardPosition.shader"
+		},
+		{
+			"key": "keyVertexShaderEdgeRotationSkinning",
+			"uri": "shaders/VertexShaderEdgeRotationSkinning.shader"
+		},
+		{
+			"key": "keyFragmentShaderGingerManGouraud",
+			"uri": "shaders/FragmentShaderGingerManGouraud.shader"
+		},
+		{
+			"key": "keyFragmentShaderGouraud",
+			"uri": "shaders/FragmentShaderGouraud.shader"
+		},
+		{
+			"key": "keyFragmentShaderPointLightGouraud",
+			"uri": "shaders/FragmentShaderPointLightGouraud.shader"
+		},
+		{
+			"key": "keyFragmentShaderStandardTexture",
+			"uri": "shaders/FragmentShaderStandardTexture.shader"
+		},
+		{
+			"key": "keyFragmentShaderBackdrop",
+			"uri": "shaders/FragmentShaderBackdrop.shader"
+		},
+		{
+			"key": "keyFragmentShaderLevelRepBackdrop",
+			"uri": "shaders/FragmentShaderLevelRepBackdrop.shader"
+		},
+		{
+			"key": "keyFragmentShaderGouraudTexture",
+			"uri": "shaders/FragmentShaderGouraudTexture.shader"
+		},
+		{
+			"key": "keyFragmentShaderDarkeningGouraudTexture",
+			"uri": "shaders/FragmentShaderDarkeningGouraudTexture.shader"
+		},
+		{
+			"key": "keyFragmentShaderBlackFader",
+			"uri": "shaders/FragmentShaderBlackFader.shader"
+		},
+		{
+			"key": "keyFragmentShaderRippleConverge",
+			"uri": "shaders/FragmentShaderRippleConverge.shader"
+		},				
+		{
+			"key": "keySpiritMeterTextureClip",
+			"uri": "shaders/FragmentShaderSpiritMeterTextureClip.shader"
+		}
+	]
+}
